@@ -1,0 +1,9 @@
+bootstrap things to use:
+
+
+Collapse - click button, and text box appears below. also accordian example
+button group, vertical
+dropdowns
+List group - use this for the side nav
+--use badges
+scrollspy - something about links and page position
